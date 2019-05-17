@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review of Because You Died: Poetry and Prose of the First World War and After, by Vera Brittain"
+title: "Review of Because You Died: Poetry and Prose of the First World War and After by Vera Brittain"
 date: 2019-05-17
 ---
 My interest in Vera Brittain was renewed by a chance viewing one night of the film adaptation of her memoirs, Testament of Youth, in which she recounted her experiences of the First World War and how it shaped her journey towards Pacifism. I had first discovered Vera Brittain during my sophomore year history tutorial in the College of Social Studies at Wesleyan University. I had read some excerpts of her writings in a collection of primary sources about women's voices from and experiences of the First World War. Even while I was in college, I was already struck by the power of her writing to convey the devastating impacts of war. After watching Testament of Youth, I decided to explore Vera Brittain's writings in more depth through the book Because You Died: Poetry and Prose of the First World War and After.
