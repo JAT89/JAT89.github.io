@@ -6,6 +6,6 @@ title: Julian T's research directory
 	<ul class="research">
 
 	  {% for post in site.posts %}
-	    <li><span>{{ research.date | date_to_string }}</span> » <a href="{{ research.url }}" title="{{ research.title }}">{{ research.title }}</a></li>
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ research.url }}" title="{{ research.title }}">{{ research.title }}</a></li>
 	  {% endfor %}
 	</ul>
