@@ -1,5 +1,5 @@
 ---
-layout: research-post
+layout: post
 title: "Credit Suisse Future of GDP Report"
 date: 2019-05-21
 ---
