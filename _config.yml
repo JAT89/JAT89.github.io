@@ -1,5 +1,2 @@
 name: Julian T
 markdown: kramdown
-collections:
-  research:
-    output: true
