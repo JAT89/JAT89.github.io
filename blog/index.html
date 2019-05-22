@@ -6,9 +6,6 @@ title: Julian T's Blog
 
 	<ul>
 	  {% for blog in site.categories.blog %}
-	    <li>
-		<a href="">{{blog.title}}</a>
-		<blog>{{blog.meta}}</p>
-	    </li>
+	     <li><span>{{ blog.date | date_to_string }}</span> » <a href="{{ blog.url }}" title="{{ blog.title }}">{{ blog.title }}</a></li>
 	  {% endfor %}
 	</ul>
