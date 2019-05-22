@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Review of The Remains of the Day by Kazuo Ishiguro"
+category: blog
 date: 2019-05-17
 ---
 I had wanted to discover Kazuo Ishiguro's writings ever since he was awarded the Nobel Prize in Literature in 2017. I was intrigued by the Nobel committee's prize citation of Ishiguro "who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." I decided to start with The Remains of the Day as it had won the Man Booker Prize in 1989 and the book was subsequently adapted into a critically acclaimed movie in 1993. 
