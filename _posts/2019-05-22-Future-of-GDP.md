@@ -2,7 +2,7 @@
 layout: research
 title: "The Future of GDP"
 categories: research
-date: 2019-05-21
+date: 2019-05-22
 ---
 
 Thinkers as far back as Aristotle have claimed that wealth is a means to achieving objectives, such as enabling people to live happy and fulfilling lives. While there are no guarantees of happiness, economic development can nevertheless be used to achieve positive social impact that can broaden an individual’s spectrum of choices and give everyone greater capacity and capability to lead fulfilling lives in the manner they see fit. Apart from social factors, there are two other areas that are essential to human well-being – a healthy environment and technological progress. Assessments of economic development should therefore also consider indicators of environmental conditions, social wellbeing, and technological advancement.In its "The Future of GDP" report published in May 2018, the Credit Suisse Research Institute looks into the main concerns around measuring economic well-being based on gross domestic product data and explores the alternatives. 
