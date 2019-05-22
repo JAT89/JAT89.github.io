@@ -5,10 +5,10 @@ title: Julian T's Blog
 	<h1>Blog</h1>
 
 	<ul>
-	  {% for research in site.categories.blog %}
+	  {% for blog in site.categories.blog %}
 	    <li>
 		<a href="">{{blog.title}}</a>
-		<research>{{blog.meta}}</p>
+		<blog>{{blog.meta}}</p>
 	    </li>
 	  {% endfor %}
 	</ul>
