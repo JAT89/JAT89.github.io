@@ -2,11 +2,13 @@
 layout: default
 title: Julian T's Blog
 ---
-	<h1>{{ page.title }}</h1>
-	<ul class="blog">
+	<h1>Blog</h1>
 
-	  {% for blog in site.categories.blog %} 	
-		{% if post.layout == "post" %}
-	    <li><span>{{ blog.date | date_to_string }}</span> » <a href="{{ blog.url }}" title="{{ blog.title }}">{{ blog.title }}</a></li>
+	<ul>
+	  {% for research in site.categories.blog %}
+	    <li>
+		<a href="">{{blog.title}}</a>
+		<research>{{blog.meta}}</p>
+	    </li>
 	  {% endfor %}
 	</ul>
