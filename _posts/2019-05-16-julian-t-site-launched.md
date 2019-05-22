@@ -1,6 +1,6 @@
 ---
 layout: post
 title: "Julian T Launches Site"
-category: blog
+categories: blog
 date: 2019-05-16
 ---
