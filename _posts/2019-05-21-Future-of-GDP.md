@@ -1,6 +1,7 @@
 ---
 layout: research
 title: "The Future of GDP"
+category: research
 date: 2019-05-21
 ---
 
