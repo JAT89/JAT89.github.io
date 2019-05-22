@@ -4,8 +4,12 @@ title: Julian T's research directory
 ---
 
 	<h1>Research</h1>
+
 	<ul>
 	  {% for research in site.categories.research %}
-	    <li><span>{{ research.date | date_to_string }}</span> » <a href="{{ research.url }}" title="{{ research.title }}">{{ research.title }}</a></li>
+	    <li>
+		<a href="">{{research.title}}</a>
+		<research>{{research.meta}}</p>
+	    </li>
 	  {% endfor %}
 	</ul>
