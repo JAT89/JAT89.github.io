@@ -27,3 +27,5 @@ theme_color: blue
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
